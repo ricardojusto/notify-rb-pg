@@ -1,0 +1,6 @@
+export PG_HOST=your-host
+export PG_DBNAME=your-database
+export PG_USER=your-user
+export PG_PASSWORD=your-password
+export PG_PORT=your-port
+export WEBHOOK_URL=your-webhook-url
